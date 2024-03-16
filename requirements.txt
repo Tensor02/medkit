@@ -1,0 +1,8 @@
+pandas
+configparser
+openpyxl
+nltk
+spacy
+SpeechRecognition
+ttkthemes
+PyAudio

@@ -1,0 +1,17 @@
+Good afternoon, what's your name?
+
+Hi, I'm *Michael Johnson*.
+
+Hello, Michael. Can you also provide me with your age and weight, please?
+
+I'm *40* years old, and I weigh around *75* kilograms.
+
+Thank you, Michael. Now, let's talk about the symptoms you're here for today. What brings you in?
+
+I've been having *sharp pains* on the sides of my head, and sometimes it feels like pressure behind my eyes.
+
+Have you experienced any other symptoms like nausea, changes in vision, or ringing in your ears?
+
+No, it's mostly the headaches and occasional pressure behind my eyes.
+
+Alright, we'll need to do a thorough examination and possibly some imaging to better understand what's causing these symptoms.

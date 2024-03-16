@@ -1,0 +1,17 @@
+Good afternoon, what's your name?
+
+Hi, I'm John Smith.
+
+Hello, John. Can you also provide me with your age and weight, please?
+
+I'm 45 years old, and I weigh around 80 kilograms.
+
+Thank you, John. Now, let's talk about the symptoms you're here for today. What brings you in?
+
+I've been having persistent headaches, especially in the mornings, and sometimes I feel dizzy.
+
+I see. Have you experienced any other symptoms like nausea, changes in vision, or numbness?
+
+No, just the headaches and dizziness.
+
+Alright, we'll need to do a thorough examination to understand what might be causing these symptoms.
